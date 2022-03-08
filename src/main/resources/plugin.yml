@@ -1,0 +1,9 @@
+name: SpawnPlugin
+version: '${project.version}'
+main: mc.spawnplugin.SpawnPlugin
+authors: [ metospam ]
+commands:
+  spawn:
+    description:
+  setspawn:
+    description:
